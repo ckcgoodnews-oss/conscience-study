@@ -28,7 +28,7 @@ Journal entries and completion marks are stored in your browser on your device. 
 
 The expected address is:
 
-[Open the conscience study](https://ckcgoodnews-oss.github.io/conscience-study/index. html)
+[Open the conscience study]([https://ckcgoodnews-oss.github.io/conscience-study/index. html](https://ckcgoodnews-oss.github.io/conscience-study/))
 
 This address becomes available after a successful Pages deployment.
 
